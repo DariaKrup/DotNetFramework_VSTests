@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net481</TargetFramework>
+        <TargetFramework>net471</TargetFramework>
         <Nullable>enable</Nullable>
         <LangVersion>preview</LangVersion>
         <RestoreFallbackFolders>clear</RestoreFallbackFolders>
