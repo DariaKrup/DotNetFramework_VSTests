@@ -9,7 +9,6 @@ namespace TestProject1
 {
     public class dsplNameXunit1
     {
-        [FullyQualifiedName("Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1")]
         [Fact]
         public void Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1()
         {
