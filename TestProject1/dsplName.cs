@@ -10,6 +10,7 @@ namespace TestProject1
     public class dsplNameXunit1
     {
         [Fact(DisplayName = "dpNameChubatovaTigerFact1")]
+        [FullyQualifiedName = "Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1"]
         public void Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1()
         {
             Assert.Equal("a", "ba");
