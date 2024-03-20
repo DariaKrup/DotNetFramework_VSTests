@@ -10,7 +10,7 @@ namespace TestProject1
     public class dsplNameXunit1
     {
         [Fact(DisplayName = "dpNameChubatovaTigerFact1")]
-        public void Test1chubatovaFact1()
+        public void Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1_Test1chubatovaFact1()
         {
             Assert.Equal("a", "ba");
         }
@@ -30,7 +30,7 @@ namespace TestProject1
     public class dsplNameXunit2
     {
         [Fact(DisplayName = "dpNameChubatovaTigerFact2")]
-        public void Test2chubatovaFact2()
+        public void Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2_Test2chubatovaFact2()
         {
         }
 
