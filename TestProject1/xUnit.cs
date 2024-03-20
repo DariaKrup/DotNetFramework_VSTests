@@ -8,7 +8,7 @@ using Xunit;
 
 namespace TestProject1
 {
-    public class UnitTest1
+    public class UnitTest1_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity_TeamCity
     {
         [Fact]
         public void Test1()
